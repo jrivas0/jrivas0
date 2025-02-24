@@ -58,8 +58,10 @@
 <div align="center">
 
 <a href="https://github.com/0xabdulkhalid/">
+	
 ![jrivas0's Stats](https://github-readme-stats.vercel.app/api?username=jrivas0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![jrivas0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jrivas0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)  
+![jrivas0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jrivas0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 </a>
 </div>
 
