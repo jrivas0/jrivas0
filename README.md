@@ -38,9 +38,6 @@
 
 </p>
 
-<br>
-<br>
-
 -----
 
 <br>
@@ -59,14 +56,8 @@
 </a>
 </div>
 
-<br>
-<br>
-<br>
-
 -----
 
-<br>
-<br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
@@ -79,10 +70,6 @@
 <img src="https://img.shields.io/badge/linkedin:  jrivas0-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
-
-<br>
-
-<br>
 
 <li>
 <a href="mailto:joseantoniorivas11@gmail.com" target="_blank">
