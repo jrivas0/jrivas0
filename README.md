@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm José Antonio Rivas</h1>
 <h3 align="center">A passionate Mobile App developer from Spain</h3>
-<img src="https://imgur.com/a/ZF09hNd">
+<img src="https://i.imgur.com/6xFJcvh.png">
 
 - 🌱 I’m currently Working on Personal Projects of Mobile Apps
 
